@@ -1,5 +1,5 @@
 
-![Banner](hhttps://github.com/partice/Generate-QR/blob/main/Photos/bLACK.png)
+![Banner](https://github.com/partice/Generate-QR/blob/main/Photos/Black.png)
 # Generate QR
 
 My debut small project with a website displaying QR codes.
